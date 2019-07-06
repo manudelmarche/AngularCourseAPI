@@ -1,0 +1,11 @@
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.csproj.CoreCompileInputs.cache
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.AssemblyInfoInputs.cache
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.AssemblyInfo.cs
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\bin\Debug\netcoreapp2.0\BootCampApi.deps.json
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\bin\Debug\netcoreapp2.0\BootCampApi.runtimeconfig.json
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\bin\Debug\netcoreapp2.0\BootCampApi.runtimeconfig.dev.json
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\bin\Debug\netcoreapp2.0\BootCampApi.dll
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\bin\Debug\netcoreapp2.0\BootCampApi.pdb
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.dll
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.pdb
+C:\Users\casva\source\repos\BootCampApi\BootCampApi\obj\Debug\netcoreapp2.0\BootCampApi.csprojAssemblyReference.cache
